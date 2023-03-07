@@ -1,13 +1,15 @@
 # Atesam Abdullah
 
-Sophomore majoring in AI | Karachi, Pakistan | 0314-3680227 | atesamabdullah8@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/atesamabdullah/) | [GitHub](https://github.com/atesamabdullah) | [Portfolio](https://atesamabdullah.github.io/) | [CodePen](https://codepen.io/atesamabdullah)
-My resume:[Resume](https://github.com/ATESAM-ABDULLAH/ATESAM-ABDULLAH/blob/main/Atesam%20Abdullah%20CV.pdf)
-
 ---
 
 Hey there! I'm an AI student at GIKI who's always looking for ways to learn and grow. I'm really into AI and want to use my skills to make a positive impact on the world. Let's connect and see how we can work together to make a difference through technology!
+
+---
+**EMAIL :** atesamabdullah8@gmail.com
+
+**RESUME :** [here](https://github.com/ATESAM-ABDULLAH/ATESAM-ABDULLAH/blob/main/Atesam%20Abdullah%20CV.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/atesamabdullah/) | [GitHub](https://github.com/atesamabdullah) | [Portfolio](https://atesamabdullah.github.io/) | [CodePen](https://codepen.io/atesamabdullah)
 
 ---
 
@@ -18,7 +20,6 @@ Hey there! I'm an AI student at GIKI who's always looking for ways to learn and 
 ## Skills
 
 ### Proficient
-
 - C++
 - Python
 - SQL

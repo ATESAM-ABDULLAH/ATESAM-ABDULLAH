@@ -3,49 +3,15 @@
 Sophomore majoring in AI | Karachi, Pakistan | 0314-3680227 | atesamabdullah8@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/atesamabdullah/) | [GitHub](https://github.com/atesamabdullah) | [Portfolio](https://atesamabdullah.github.io/) | [CodePen](https://codepen.io/atesamabdullah)
+My resume:[Resume](https://github.com/ATESAM-ABDULLAH/ATESAM-ABDULLAH/blob/main/Atesam%20Abdullah%20CV.pdf)
+
+---
+
+Hey there! I'm an AI student at GIKI who's always looking for ways to learn and grow. I'm really into AI and want to use my skills to make a positive impact on the world. Let's connect and see how we can work together to make a difference through technology!
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATESAM-ABDULLAH&show_icons=true&theme=transparent)
----
-
-## Education
-
-**Ghulam Ishaq Khan Institute, Topi** — Bachelor's (ongoing)
-
-*SEP 2021 - OCT 2025*
-
-CGPA: 3.43.
-
-Volunteer IEEE GIKI chapter.
-
-**Karachi Grammar School, Karachi** — A level
-
-*SEP 2019 - JUNE 2021*
-
-Module sub-head KGX 2021.
-
-**Cadet College Petaro, Jamshoro** — O level
-
-*MAY 2016 - JUL 2019*
-
----
-
-## Experience
-
-**NJV School, Karachi** — Teaching Assistant (Robotics)
-
-*MAR 2020 - APR 2020*
-
-- Improved student grasp of subject content by developing and giving tests and quizzes, resulting in a 25% rise in class averages.
-- Increased project completion rates by troubleshooting complex circuits effectively.
-
-**The Garage School, Karachi** — Teaching Volunteer (English)
-
-*JAN 2020 - FEB 2020*
-
-- Helped students progress from non-spoken to conversant English in everyday situations, boosting confidence and communication abilities.
-- Improved weekly volunteer engagement by 300 minutes (30 minutes per person) by developing individualised timetables for volunteers in collaboration with instructors and staff.
 
 ---
 

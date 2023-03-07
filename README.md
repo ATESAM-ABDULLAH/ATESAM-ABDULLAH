@@ -6,6 +6,9 @@ Sophomore majoring in AI | Karachi, Pakistan | 0314-3680227 | atesamabdullah8@gm
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATESAM-ABDULLAH&show_icons=true&theme=transparent)
+---
+
 ## Education
 
 **Ghulam Ishaq Khan Institute, Topi** — Bachelor's (ongoing)

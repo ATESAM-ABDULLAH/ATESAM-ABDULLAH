@@ -17,6 +17,10 @@ Hey there! I'm an AI student at GIKI who's always looking for ways to learn and 
 
 ---
 
+![Holopin](https://holopin.onrender.com/atesamabdullah?style=flat-square)
+
+---
+
 [![An image of @atesamabdullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atesamabdullah)](https://holopin.io/@atesamabdullah)
 
 ---

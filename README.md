@@ -16,7 +16,3 @@ Hey there! I'm an AI student at GIKI who's always looking for ways to learn and 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATESAM-ABDULLAH&show_icons=true&theme=transparent)
 
 ---
-
-[![An image of @atesamabdullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atesamabdullah)](https://holopin.io/@atesamabdullah)
-
----

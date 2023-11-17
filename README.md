@@ -9,7 +9,7 @@ Hey there! I'm an AI student at GIKI who's always looking for ways to learn and 
 
 **RESUME :** [here](https://github.com/ATESAM-ABDULLAH/ATESAM-ABDULLAH/blob/main/Atesam%20Abdullah%20CV.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/atesamabdullah/) | [GitHub](https://github.com/atesamabdullah) | [Portfolio](https://atesamabdullah.github.io/) | [CodePen](https://codepen.io/atesamabdullah)
+[LinkedIn](https://www.linkedin.com/in/atesam) | [GitHub](https://github.com/ATESAM-ABDULLAH) | [Portfolio](https://atesamabdullah.github.io/) | [CodePen]((https://codepen.io/atesam-abdullah))
 
 ---
 
